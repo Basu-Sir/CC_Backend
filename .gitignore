@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+*.env.local
+
+# Pytest / test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Private files
+HANDOFF.md
+GUIDELINES.md
+
+# Load test dumps
+loadtest/*.csv
+loadtest/*.html
+loadtest/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+HANDOFF.md
+GUIDELINES.md
+loadtest/*.csv
+loadtest/*.html
